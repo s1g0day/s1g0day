@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# About me
+ - 菜鸡一枚
 
 ## Github stats
 ![timwhite's github stats](https://github-readme-stats.vercel.app/api?username=s1g0day&count_private=true&show_icons=true)
