@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # About me
  - 菜鸡一枚，在职研究员
 
- - 注: 本人未公布任何社交信息，如果遇到任何与`s1g0day`相关的社交信息，可能只是巧合或同名同姓的情况。请对涉及个人信息的任何推断保持谨慎，并避免错误地将其与本人联系起来。
+ - 注: 本人未公布任何社交信息，如果遇到任何与`s1g0day`相关的社交信息，可能只是巧合或同名同姓的情况。请对涉及个人信息的任何推断保持谨慎，并避免错误地将其与本人联系起来。如有疑问，可[lssuses](https://github.com/s1g0day/s1g0day/issues)联系
 
 
 ## Github stats
