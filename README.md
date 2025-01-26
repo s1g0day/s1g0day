@@ -2,13 +2,19 @@
 
 - 注: 本人未公布任何社交信息，如果遇到任何与`s1g0day`相关的社交信息，可能只是巧合或同名同姓的情况。请对涉及个人信息的任何推断保持谨慎，并避免错误地将其与本人联系起来。如有疑问，可[lssuses](https://github.com/s1g0day/s1g0day/issues)联系
 
-- 牛马一枚=渗透测试+代码审计+免杀研究+工具研究+红队突击+蓝队护盾+应急响应+安全服务
-
 ## Open Source Tools
 
 - [x] **[ICP_Query_Batch](https://github.com/s1g0day/ICP_Query_Batch)**  | ICP_Query_Batch 介绍：从工业和信息化部政务服务平台进行的ICP备案查询
 
 - [x] **[ReportGenX](https://github.com/s1g0day/ReportGenX)**  | ReportGenX 介绍：渗透测试报告生成工具
+
+- [x] **[ARL-data-processing](https://github.com/s1g0day/ARL-data-processing)**  | ARL-data-processing 介绍：用作灯塔(ARL)上传数据、管理任务等
+
+- [x] **[Aijiasu_Agent_Pool](https://github.com/s1g0day/Aijiasu_Agent_Pool)**  | Aijiasu_Agent_Pool 介绍：python 调用爱加速 linux 版本
+
+- [x] **[data_processor](https://github.com/s1g0day/data_processor)**  | data_processor 介绍：各类域名数据处理
+  
+- [x] **[Github_forks_update](https://github.com/s1g0day/Github_forks_update)**  | Github_forks_update 介绍：获取github项目forks作者的更新信息
 
 ## Visit Count
 
