@@ -16,6 +16,8 @@
   
 - [x] **[Github_forks_update](https://github.com/s1g0day/Github_forks_update)**  | Github_forks_update 介绍：获取github项目forks作者的更新信息
 
+- [x] **[AVCheck-Reset](https://github.com/s1g0day/AVCheck-Reset)**  | Github_forks_update 介绍：对windows系统进程中的杀软进行识别
+
 ## Visit Count
 
 <div align="center">
