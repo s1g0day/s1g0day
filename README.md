@@ -10,6 +10,8 @@
 
 - [x] **[ARL-data-processing](https://github.com/s1g0day/ARL-data-processing)**  | ARL-data-processing 介绍：用作灯塔(ARL)上传数据、管理任务等
 
+- [x] **[AWVS-data-processing](https://github.com/s1g0day/AWVS-data-processing)**  | AWVS-data-processing 介绍：用作AWVS上传数据、管理任务等
+
 - [x] **[Aijiasu_Agent_Pool](https://github.com/s1g0day/Aijiasu_Agent_Pool)**  | Aijiasu_Agent_Pool 介绍：python 调用爱加速 linux 版本
 
 - [x] **[data_processor](https://github.com/s1g0day/data_processor)**  | data_processor 介绍：各类域名数据处理
