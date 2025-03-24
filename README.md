@@ -28,10 +28,11 @@
 
 ## GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/s1g0day">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=s1g0day&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1g0day&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1g0day&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1g0day&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" width="94%" />
 </p>
