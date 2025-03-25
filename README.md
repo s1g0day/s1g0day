@@ -1,9 +1,8 @@
 # About me
 
-- Note: I have not published any social information. If you encounter any social information related to `s1g0day`, it may just be a coincidence or a case of having the same name. Please be cautious about any inference involving personal information and avoid mistakenly associating it with me. If you have any questions, you can contact [lssuses](https://github.com/s1g0day/s1g0day/issues)
 - 注: 本人未公布任何社交信息，如果遇到任何与`s1g0day`相关的社交信息，可能只是巧合或同名同姓的情况。请对涉及个人信息的任何推断保持谨慎，并避免错误地将其与本人联系起来。如有疑问，可[lssuses](https://github.com/s1g0day/s1g0day/issues)联系
 
-# languages, tools and skills:
+## Skills:
 
 - 🔭 熟练：PYTHON
 - 🌱 略懂：Golang、PHP、JAVA、C#、C++
