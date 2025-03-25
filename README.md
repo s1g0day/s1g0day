@@ -1,6 +1,16 @@
 # About me
 
+- Note: I have not published any social information. If you encounter any social information related to `s1g0day`, it may just be a coincidence or a case of having the same name. Please be cautious about any inference involving personal information and avoid mistakenly associating it with me. If you have any questions, you can contact [lssuses](https://github.com/s1g0day/s1g0day/issues)
 - 注: 本人未公布任何社交信息，如果遇到任何与`s1g0day`相关的社交信息，可能只是巧合或同名同姓的情况。请对涉及个人信息的任何推断保持谨慎，并避免错误地将其与本人联系起来。如有疑问，可[lssuses](https://github.com/s1g0day/s1g0day/issues)联系
+
+# languages, tools and skills:
+
+- 🔭 熟练：PYTHON
+- 🌱 略懂：Golang、PHP、JAVA、C#、C++
+- 👯 擅长：WEB渗透、内网渗透、漏洞挖掘
+- 😄 会玩：代码审计、社工钓鱼、移动安全、云安全、电子取证、应急响应
+- ⚡ 娱乐：安全开发、收藏工具、漏洞库/知识库维护
+- 🤔 有趣的事实: 乾坤未定，你我皆是黑马；闹钟一响，你我皆是牛马。
 
 ## Open Source Tools
 
@@ -20,6 +30,11 @@
 
 - [x] **[AVCheck-Reset](https://github.com/s1g0day/AVCheck-Reset)**  | AVCheck-Reset 介绍：对windows系统进程中的杀软进行识别
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=s1g0day&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1g0day&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
 ## Visit Count
 
 <div align="center">
@@ -29,10 +44,5 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=s1g0day&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1g0day&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1g0day&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" width="94%" />
 </div>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s1g0day&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" width="94%" />
-</p>
