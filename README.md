@@ -17,6 +17,8 @@
 
 - [x] **[ReportGenX](https://github.com/s1g0day/ReportGenX)**  | ReportGenX 介绍：渗透测试报告生成工具
 
+- [x] **[Vulnerability-description-and-fix](https://github.com/s1g0day/Vulnerability-description-and-fix)**  | Vulnerability-description-and-fix 介绍：漏洞描述及修复
+
 - [x] **[ARL-data-processing](https://github.com/s1g0day/ARL-data-processing)**  | ARL-data-processing 介绍：用作灯塔(ARL)上传数据、管理任务等
 
 - [x] **[AWVS-data-processing](https://github.com/s1g0day/AWVS-data-processing)**  | AWVS-data-processing 介绍：用作AWVS上传数据、管理任务等
@@ -28,6 +30,7 @@
 - [x] **[Github_forks_update](https://github.com/s1g0day/Github_forks_update)**  | Github_forks_update 介绍：获取github项目forks作者的更新信息
 
 - [x] **[AVCheck-Reset](https://github.com/s1g0day/AVCheck-Reset)**  | AVCheck-Reset 介绍：对windows系统进程中的杀软进行识别
+
 
 ## Visit Count
 
