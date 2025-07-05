@@ -23,8 +23,6 @@
 
 - [x] **[AWVS-data-processing](https://github.com/s1g0day/AWVS-data-processing)**  | AWVS-data-processing 介绍：用作AWVS上传数据、管理任务等
 
-- [x] **[Aijiasu_Agent_Pool](https://github.com/s1g0day/Aijiasu_Agent_Pool)**  | Aijiasu_Agent_Pool 介绍：python 调用爱加速 linux 版本
-
 - [x] **[data_processor](https://github.com/s1g0day/data_processor)**  | data_processor 介绍：各类域名数据处理
   
 - [x] **[Github_forks_update](https://github.com/s1g0day/Github_forks_update)**  | Github_forks_update 介绍：获取github项目forks作者的更新信息
