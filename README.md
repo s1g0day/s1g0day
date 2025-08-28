@@ -31,13 +31,6 @@
 
 - [x] **[AVCheck-Reset](https://github.com/s1g0day/AVCheck-Reset)**  | AVCheck-Reset 介绍：对windows系统进程中的杀软进行识别
 
-
-## Visit Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/s1g0day/count.svg?"  />
-</div>
-
 ## GitHub Analytics
 
 <div align="center">
